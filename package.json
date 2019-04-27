@@ -2,8 +2,12 @@
   "dependencies": {
     "@iota/area-codes": "^0.1.0",
     "@iota/converter": "^1.0.0-beta.11",
-    "@iota/core": "^1.0.0-beta.11",
-    "tslint": "^5.15.0",
-    "typescript": "^3.4.1"
+    "@iota/core": "^1.0.0-beta.11"
+  },
+  "devDependencies": {
+    "@types/node": "^10.12.2",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.6"
   }
 }
